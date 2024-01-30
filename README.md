@@ -19,10 +19,10 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"width="45" height="45" />
 </p>
 
-  ##
+  #
 <h3> 🤝🏻 Connect with Me </h3>
 
 ## <p align="center">
-## <a href="https://www.linkedin.com/in/eslam-ahmed-a73462204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@EslamAhmed-blue?style=flat&logo=linkedin"></a>
+### <a href="https://www.linkedin.com/in/eslam-ahmed-a73462204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@EslamAhmed-blue?style=flat&logo=linkedin"></a>
  <a href="mailto:eslamahmed2915@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eslamahmed2915@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
