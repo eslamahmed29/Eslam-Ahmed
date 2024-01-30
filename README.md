@@ -4,12 +4,11 @@
 - 🚀 BackEnd Developer
 - 👨‍💻 Problem Solver
   <br /><br>
-  <p>
-    <h3> view My Resume </h3>
-  </p>
-     &nbsp; &nbsp; *[Resume](https://drive.google.com/file/d/1re3l29KmDVlhyw_AdlnpVIRSLVCp6p1E/view?usp=sharing)*
   
- <br>
+    <h3> view My Resume </h3>
+  
+     &nbsp; &nbsp; *[Resume](https://drive.google.com/file/d/1re3l29KmDVlhyw_AdlnpVIRSLVCp6p1E/view?usp=sharing)*
+ </br>
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height = "45" />
