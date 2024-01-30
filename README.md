@@ -4,7 +4,7 @@
 - 🚀 BackEnd Developer
 - 👨‍💻 Problem Solver
   &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1re3l29KmDVlhyw_AdlnpVIRSLVCp6p1E/view?usp=sharing)*
-<br />
+  
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height = "45" />
