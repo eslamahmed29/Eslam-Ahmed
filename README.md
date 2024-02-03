@@ -6,7 +6,7 @@
   <br/>
   <h4>View My Resume</h4>
     
-   &nbsp; &nbsp; *[Resume](https://drive.google.com/file/d/1ndZT1Ti_N2TfQh5T1Rk3jiBDaJYmAJkd/view?usp=sharing)*
+   &nbsp; &nbsp; *[Resume](https://drive.google.com/file/d/11Q1S7-2vkLosHA8u14jcrTKWTqDe8cdr/view?usp=sharing)*
  </br>
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
