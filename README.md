@@ -6,7 +6,7 @@
   <br/>
   <h4>View My Resume</h4>
     
-   &nbsp; &nbsp; *[Resume](https://drive.google.com/file/d/1t2s8DZgHe-ILji7Jna5t-n91b6fNGQnh/view?usp=sharing)*
+   &nbsp; &nbsp; *[Resume](https://drive.google.com/file/d/13BXl9KlTtX2ytpjKkTxaYnoBbwA59u9W/view?usp=sharing)*
  </br>
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -27,6 +27,6 @@
 ## <h3> 🤝🏻 Connect with Me </h3>
 
  <p align="center">
- <a href="https://www.linkedin.com/in/eslam-ahmed-a73462204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@EslamAhmed-blue?style=flat&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/eslamahmed29/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@EslamAhmed-blue?style=flat&logo=linkedin"></a>
  <a href="mailto:eslamahmed2915@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eslamahmed2915@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
